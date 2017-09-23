@@ -95,6 +95,10 @@ button.delete {
 	display: none;
 }
 
+#add-item > div {
+	width: 250px !important;
+}
+
 #completed-tasks span{
 	text-decoration: line-through;
 	font-size: 1.2em !important;
