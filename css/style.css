@@ -41,7 +41,7 @@ p, li {
 
 div.container {
 	display: block;
-	width: 400px;
+	width: 370px;
 	margin: 0 auto;
 }
 
@@ -70,6 +70,10 @@ ul#completed-tasks.mdl-list {
 .mdl-button {
 	height: 26px !important;
 	min-width: 50px !important;
+}
+
+.mdl-tabs__tab {
+	padding: 0 10px !important;
 }
 
 ul{
